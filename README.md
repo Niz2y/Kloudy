@@ -1,9 +1,10 @@
 # Moonify-API
-Usage:
+
+Example:
 ```py
 from MoonifyAPI import GetName
 from MoonifyAPI import GetID
 
-GetName("DISCORD_ID") # Gets username
-GetID("DISCORD_ID") # Gets user ID
+GetName("DISCORD_ID") # Finds Roblox Username.
+GetID("DISCORD_ID") # Finds Roblox User ID.
 ```
