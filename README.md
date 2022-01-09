@@ -1,5 +1,5 @@
 # Moonify-API
-- Usage:
+Usage:
 ```py
 from MoonifyAPI import GetName
 from MoonifyAPI import GetID
