@@ -12,7 +12,6 @@ GetID("DISCORD_ID") # Finds Roblox User ID.
 pip install requests
 ```
 
-
 # Setup
-- You have to put `Kloudy.py` into the same folder you are currently using for your code.
-- Make sure you have [`requests`](https://pypi.org/project/requests/).
+- Make sure `Kloudy.py` is in the same folder you are currently using for your project.
+- Make sure you have [`requests`](https://pypi.org/project/requests/) installed.
