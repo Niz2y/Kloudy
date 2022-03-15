@@ -1,7 +1,7 @@
 # RoFind
 ```py
-from Kloudy import GetName
-from Kloudy import GetID
+from RoFind import GetName
+from RoFind import GetID
 
 GetName("DISCORD_ID") # Finds Roblox Username.
 GetID("DISCORD_ID") # Finds Roblox User ID.
