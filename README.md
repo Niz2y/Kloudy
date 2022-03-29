@@ -1,10 +1,9 @@
 # RoFind API
 ```py
-from RoFind import GetName
-from RoFind import GetID
+import RoFind
 
-GetName("DISCORD_ID") # Finds Roblox Username.
-GetID("DISCORD_ID") # Finds Roblox User ID.
+RoFind.GetName("DISCORD_ID") # Finds Roblox Username.
+RoFind.GetID("DISCORD_ID") # Finds Roblox User ID.
 ```
 
 # Setup
