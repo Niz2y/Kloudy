@@ -1,4 +1,4 @@
-# RoFind
+# RoFind API
 ```py
 from RoFind import GetName
 from RoFind import GetID
